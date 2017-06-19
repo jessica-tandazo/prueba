@@ -1,7 +1,0 @@
-## Prueba
-
-Prueba
-
-#### License
-
-MIT
